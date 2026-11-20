@@ -1,0 +1,15 @@
+{
+  "semi_median_s": 0.004019117499979075,
+  "semi_range_s": [
+    0.003429860000096596,
+    0.006397780999805036
+  ],
+  "fem_median_s": 0.8749645540001438,
+  "fem_range_s": [
+    0.863381863000086,
+    0.9042849019999721
+  ],
+  "repeats_semi": 100,
+  "repeats_fem": 5,
+  "hardware": "Intel Xeon Platinum 8370C, 2.80 GHz; shared virtual machine"
+}
